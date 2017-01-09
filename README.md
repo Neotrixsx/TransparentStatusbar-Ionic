@@ -1,0 +1,1 @@
+# TransparentStatusbar-Ionic
